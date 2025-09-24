@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python programming, C#, HTML & CSS**
 
-- 📝 I regularly post progress pics on my Instagram [https://www.instagram.com/_.k.gorinow._/](https://www.instagram.com/_.k.gorinow._/)
+- 📝 For even more information : [kgorinov.com](https://kgorinov.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
