@@ -1,16 +1,49 @@
-<h1 align="center">Hi 👋, I'm Kristiyan Gorinov</h1>
-<h3 align="center">Interested in algorithms and backend developer in making</h3>
-<img align="righ" alt="Training", width="400" src= "https://cdnl.iconscout.com/lottie/premium/thumb/dumbbells-workout-5430144-4537121.gif">
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:2f81f7&text=Kristiyan%20Gorinov&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20developer%20%C2%B7%20CS%20%2B%20Business%20student%20%C2%B7%20Builder&descColor=c9d1d9&descSize=16&descAlignY=60" alt="Kristiyan Gorinov banner" />
 
-- 🌱 I’m currently learning **Python programming, C#, HTML & CSS**
-
-- 📝 For even more information : [kgorinov.com](https://kgorinov.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20138086/kristiyan-gorinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20138086/kristiyan-gorinov" height="30" width="40" /></a>
-<a href="https://instagram.com/_.k.gorinow._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.k.gorinow._" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://kgorinov.com"><img src="https://img.shields.io/badge/Portfolio-kgorinov.com-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <!-- Add your LinkedIn link, then remove this comment:
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  -->
+  <a href="https://www.instagram.com/_.k.gorinow._/"><img src="https://img.shields.io/badge/Instagram-@__.k.gorinow.__-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👋 Hi, I'm Kristiyan
+
+I'm a first-year student at **AUBG** (American University in Bulgaria), working toward a double major in **Computer Science and Business Administration**. I started coding at 11, graduated from **SoftUni** as a Python web developer at 17, and I like building things that sit where software meets business.
+
+- 🔭 **Building now:** web projects in vanilla JavaScript, plus C# and C++ coursework at AUBG
+- 💼 **Experience:** intern at [Performalis](https://www.perfomalis.com) (digital marketing, since Dec 2025)
+- 🏆 **Wins:** 1st place in Programming at *IT Znayko*, 1st place at *Az Sum IT Bulgarche*, 1st place at JA Bulgaria's Innovation Camp
+- 🧗 **Off-screen:** competitive climbing, swimming, 3D modeling in Blender, guitar
+- 📫 **Reach me:** through [kgorinov.com](https://kgorinov.com)
+
+## 🛠️ Tech I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,cs,cpp&theme=dark" alt="Backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github&theme=dark" alt="Data and tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,blender,ai&theme=dark" alt="Design and 3D" />
+</p>
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Geek Climbers** | Climbing community social app, my SoftUni final project | Python, Django |
+| [**Notekeeper**](https://github.com/KristiyanGorinov/Notekeeper) | Full CRUD notepad with two light themes and a responsive layout, built for a coding competition | HTML, CSS, JavaScript |
+| [**TheCurseOfDamarel**](https://github.com/KristiyanGorinov/TheCurseOfDamarel) | Text-based adventure game that runs in the console | C# |
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KristiyanGorinov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiyanGorinov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:2f81f7,100:0d1117" alt="" />
