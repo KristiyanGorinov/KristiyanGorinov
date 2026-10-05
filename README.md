@@ -14,7 +14,7 @@
 I'm a first-year student at **AUBG** (American University in Bulgaria), working toward a double major in **Computer Science and Business Administration**. I started coding at 11, graduated from **SoftUni** as a Python web developer at 17, and I like building things that sit where software meets business.
 
 - 🔭 **Building now:** web projects in vanilla JavaScript, plus C# and C++ coursework at AUBG
-- 💼 **Experience:** intern at [Performalis](https://www.perfomalis.com) (digital marketing, since Dec 2025)
+- 💼 **Experience:** intern at [Performalis](https://www.perfomalis.com) (digital marketing, Dec 2025 - July 2026)
 - 🏆 **Wins:** 1st place in Programming at *IT Znayko*, 1st place at *Az Sum IT Bulgarche*, 1st place at JA Bulgaria's Innovation Camp
 - 🧗 **Off-screen:** competitive climbing, swimming, 3D modeling in Blender, guitar
 - 📫 **Reach me:** through [kgorinov.com](https://kgorinov.com)
